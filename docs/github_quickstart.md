@@ -1,11 +1,13 @@
 # Github Quickstart
 
-This is my first commit
+A more complete tutorial: https://docs.github.com/en/get-started/quickstart/hello-world
 
-## Getting Started
+## Reference notes from today
+Install a git cli (command line interface) for your system before starting! Here's one way to install it: https://git-scm.com/downloads
 
 1. Create a repository on github
-2. Clone it locally
+2. Clone it locally using the repository's address
+*note it may be easier to clone `https://` links rather than `git@` links for first time users*
 ```
 git clone git@github.com:A-Telfer/biocoders-git-tutorial-2023.git
 ```
